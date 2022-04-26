@@ -6,7 +6,7 @@
 <p><a rel="nofollow" href="https://zeroth-bravo.github.io/zero-hunger-be-pjt-108">https://zeroth-bravo.github.io/zero-hunger-be-pjt-108</a></p>
 </details>
 
-- [ ] In progress
+- [ ] In progress https://rubylena.github.io/zero-hunger-fe-pjt-108/
 
 <details>
 <summary>Figma Link :</summary>
